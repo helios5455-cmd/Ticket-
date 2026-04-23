@@ -40,8 +40,5 @@ This is a C# Windows Forms Application for calculating bus ticket prices.
 - Form1.Designer.cs - Form design and controls
 - TicketApp.csproj - Project file
 
-## Author
-Group Project - CTU Training Solutions
-
 ## Date
 2026
